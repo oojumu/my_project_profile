@@ -3,10 +3,12 @@ import logo from './logo.svg';
 import ProfileDesc from './ProfileDesc';
 
 function App() {
-  return   (
-  
-        <ProfileDesc />
-  )
+    return   (
+              <main>
+                <ProfileDesc />
+               
+              </main>        
+    );
 
 }
 

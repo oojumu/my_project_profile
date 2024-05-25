@@ -1,4 +1,4 @@
-import React from 'react'
+//import React from 'react'
 import heroImg from './assets/hero.svg'
 
 
@@ -14,7 +14,7 @@ const profileDesc = () => {
                 </div>
 
                 <div className='img-container'>
-                        <img src={heroImg} />
+                        <img src={heroImg} alt=''/>
                 </div>
             </section>
   )

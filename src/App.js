@@ -1,14 +1,13 @@
 import logo from './logo.svg';
 //import './App.css';
-import ProfileDesc from './profileDesc';
-import ProjectListg from './projectListg';
+import ProfileDesc from './ProfileDesc';
+import ProjectList from './ProjectList';
 
 function App() {
     return   (
               <main>
                 <ProfileDesc />
-                <ProjectListg />
-
+                <ProjectList />
               </main>        
     );
 

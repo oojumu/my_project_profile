@@ -11,8 +11,6 @@ const profileDesc = () => {
 
                         <p> A renowned Software Developer</p>
                     </div>
-
-
                 </div>
 
                 <div className='img-container'>

@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 //import './App.css';
-import ProfileDesc from './ProfileDesc';
-import ProjectListg from './ProjectListg';
+import ProfileDesc from './profileDesc';
+import ProjectListg from './projectListg';
 
 function App() {
     return   (

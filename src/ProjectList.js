@@ -38,6 +38,15 @@ console.log(loading, projects);
             })}
             </div>
 
+
+            <div className='title'>
+                <h2>E-Commerce Projects</h2>
+            </div>
+
+            <div className='title-underline'>
+                
+            </div>
+
             <div className='projects-center'>
             {
                 projects.map((project) => {
@@ -60,7 +69,37 @@ console.log(loading, projects);
 
 
 
-            
+            <div className='title'>
+                <h2>E-Commerce Projects</h2>
+            </div>
+
+            <div className='title-underline'>
+                
+            </div>
+
+            <div className='projects-center'>
+            {
+                projects.map((project) => {
+                const {id, img, url, title} = project;
+                return (
+                <a
+                    key={id}
+                    href={url}
+                    target='_blank'
+                    rel='noreferrer'
+                    className='project'>
+                    
+
+                    <img src={img} alt={title} className='img' />
+                    <h5>{title}</h5>
+                </a>
+                );
+            })}
+            </div>
+
+
+
+
         </div>
     </section>
 )

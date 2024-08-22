@@ -11,7 +11,7 @@ console.log(loading, projects);
     <section>
         <div className='projects'>
             <div className='title'>
-                <h2>Projects</h2>
+                <h2>Project Portfolio</h2>
             </div>
 
             <div className='title-underline'>
@@ -70,7 +70,7 @@ console.log(loading, projects);
 
 
             <div className='title'>
-                <h2>E-Commerce Projects</h2>
+                <h2>Microservice Projects</h2>
             </div>
 
             <div className='title-underline'>

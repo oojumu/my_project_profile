@@ -19,9 +19,10 @@ console.log(loading, projects);
             </div>
 
             <div className='projects-center'>
-            {projects.map((project) => {
-            const {id, img, url, title} = project;
-            return (
+            {
+                projects.map((project) => {
+                const {id, img, url, title} = project;
+                return (
                 <a
                     key={id}
                     href={url}
@@ -33,8 +34,28 @@ console.log(loading, projects);
                     <img src={img} alt={title} className='img' />
                     <h5>{title}</h5>
                 </a>
-            );
-        })}
+                );
+            })}
+            </div>
+
+            <div className='projects-center'>
+            {
+                projects.map((project) => {
+                const {id, img, url, title} = project;
+                return (
+                <a
+                    key={id}
+                    href={url}
+                    target='_blank'
+                    rel='noreferrer'
+                    className='project'>
+                    
+
+                    <img src={img} alt={title} className='img' />
+                    <h5>{title}</h5>
+                </a>
+                );
+            })}
             </div>
         </div>
     </section>

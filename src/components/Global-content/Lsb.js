@@ -25,7 +25,7 @@ export default function Lsb() {
                     <a href="https://github.com/"><i className="lab la-github"></i></a>
                 </li>
             </ul>
-            <a href="#" className="theme-btn">
+            <a href="https://github.com" className="theme-btn">
                 <i className="las la-envelope"></i> Hire Me!
             </a>
         </div>

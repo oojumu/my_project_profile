@@ -46,7 +46,7 @@ export default function Portfolio() {
                                     </li>
                                 </ul>
                             </div>
-                            <h2><a href="https://www.Bureau - Architecture Studio Website.com">Bureau - Architecture Studio Website</a></h2>
+                            <h2><a href="https://gorgeous-pilot1.azurewebsites.net/">Gorgeous Shopping s</a></h2>
                         </div>
                     </div>
 

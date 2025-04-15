@@ -27,8 +27,8 @@ export default function Main() {
                 <Portfolio/>
                 {/* <Testimonials/> */}
                 <Clientlogos/>
-                <Pricing/>
-                <Contact/>
+                {/* <Pricing/> */}
+                {/* <Contact/> */}
                 
             </div>
         </div>

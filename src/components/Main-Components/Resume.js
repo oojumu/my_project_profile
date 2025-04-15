@@ -19,24 +19,20 @@ export default function Resume() {
 
                 <div className="resume-timeline">
                     <div className="item scroll-animation" data-aos='fade-right'>
-                        <span className="date">2020 - Present</span>
-                        <h2>Framer Desinger & Developer</h2>
-                        <p>Brunodee Agency</p>
-                        <h2>Front-End WordPress Developer</h2>
-                        <p>Envato Market</p>
+                        <span className="date">2022 - Present</span>
+                        <h2>Full Stack Developer</h2>
+                        <p>Graun Limited</p>
+                        <h2>Full Stack Developer</h2>
+                        <p>GTBank Plc</p>
                     </div>
                     <div className="item scroll-animation" data-aos='fade-left'>
                         <span className="date">2013 - 2019</span>
-                        <h2>Webflow Developer & Co-Founder</h2>
-                        <p>Designflow Studio</p>
-                        <h2>Web Designer</h2>
-                        <p>Freelance</p>
-                        <h2>Leader Team of Marketing</h2>
-                        <p>AHA Marketing Agency</p>
-                    </div>
+                        <h2>Full Stack Developer</h2>
+                        <p>Dangote</p>
+                        
                     <div className="item scroll-animation" data-aos='fade-right'>
                         <span className="date">2010 - 2013</span>
-                        <h2>Bachelor Degree of Information Technology</h2>
+                        <h2>Bachelor Degree of Computer Science</h2>
                         <p>US RMIT University</p>
                     </div>
                 </div>

@@ -1,7 +1,7 @@
 
 import Global from './components/Global';
-import ProfileDesc from './ProfileDesc';
-import ProjectList from './ProjectList';
+//import ProfileDesc from './ProfileDesc';
+//import ProjectList from './ProjectList';
 import './assets/css/bootstrap.min.css'
 import './css/App.css'
 import './css/responsive.css'
@@ -12,8 +12,8 @@ function App() {
     return   (
               <main>   
                 <Global/>
-                  <ProfileDesc/>
-                  <ProjectList/>    *
+                  {/* <ProfileDesc/>
+                  <ProjectList/>     */}
                        
               </main>        
     );

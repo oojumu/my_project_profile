@@ -21,19 +21,29 @@ export default function Resume() {
                     <div className="item scroll-animation" data-aos='fade-right'>
                         <span className="date">2022 - Present</span>
                         <h2>Full Stack Developer</h2>
-                        <p>Graun Limited</p>
-                        <h2>Full Stack Developer</h2>
-                        <p>GTBank Plc</p>
+                        <p>Graun Limited</p>                      
                     </div>
+
+
                     <div className="item scroll-animation" data-aos='fade-left'>
-                        <span className="date">2013 - 2019</span>
+                        <span className="date">2018 - 2022</span>
                         <h2>Full Stack Developer</h2>
                         <p>Dangote</p>
                     </div>
+
+                    <div className="item scroll-animation" data-aos='fade-left'>
+                        <span className="date">2015 - 2018</span>
+                        <h2>Full Stack Developer</h2>
+                        <p>GTBank</p>
+                    </div>
+
                     <div className="item scroll-animation" data-aos='fade-right'>
-                        <span className="date">2010 - 2013</span>
+                        {/* <span className="date">2010 - 2013</span> */}
+                        <h2>Masters Degree of Computer Science</h2>
+                        <p>University of Wolverhampton</p>
+
                         <h2>Bachelor Degree of Computer Science</h2>
-                        <p>US RMIT University</p>
+                        <p>University of Lagos</p>
                     </div>
                 </div>
 

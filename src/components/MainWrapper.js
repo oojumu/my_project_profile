@@ -8,8 +8,8 @@ import Skills from './Main-Components/Skills'
 import Portfolio from './Main-Components/Portfolio'
 //import Testimonials from './Main-Components/Testimonials'
 import Clientlogos from './Main-Components/Clientlogos'
-import Pricing from './Main-Components/Pricing'
-import Contact from './Main-Components/Contact'
+//import Pricing from './Main-Components/Pricing'
+//import Contact from './Main-Components/Contact'
 
 export default function Main() {
   return (

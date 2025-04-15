@@ -29,7 +29,7 @@ export default function Resume() {
                         <span className="date">2013 - 2019</span>
                         <h2>Full Stack Developer</h2>
                         <p>Dangote</p>
-                        
+                    </div>
                     <div className="item scroll-animation" data-aos='fade-right'>
                         <span className="date">2010 - 2013</span>
                         <h2>Bachelor Degree of Computer Science</h2>

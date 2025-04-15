@@ -14,14 +14,17 @@ export default function About() {
                     <h4 className="subtitle scroll-animation" data-aos='fade-up'>
                         <i className="lar la-user"></i> About
                     </h4>
-                    <h1 className="scroll-animation" data-aos='fade-up'>Every great design begin with<br/>
+                    <h1 className="scroll-animation" data-aos='fade-up'>Every great design begins with<br/>
                         an even <span>better story</span></h1>
                 </div>
-                <p className="scroll-animation" data-aos='fade-up'>Since beginning my journey as a freelance designer nearly 8 years ago, 
-                    I've done remote work for agencies, consulted for startups, and collaborated with 
-                    talented people to create digital products for both business and consumer use. 
-                    I'm quietly confident, naturally curious, and perpetually working on improving my 
-                    chopsone design problem at a time.</p>
+                <p className="scroll-animation" data-aos='fade-up'>Senior software developer with 10+ years 
+                    of experience in .NET Core, C#, Azure, React and microservices Architecture, 
+                    implementing enterprise systems across sectors; led the development of an
+                    account opening solution that boosted customer acquisition by 20% while generating
+                    £1,000,000 in additional monthly revenue. With expertise in cloud technologies 
+                    and continuous integration practices enhancing project delivery efficiency and team 
+                    collaboration. I have a proven track record of delivering high-quality software solutions
+                    that drive business growth and customer satisfaction.</p>
             </div>
         </div>
     </section>

@@ -4,11 +4,11 @@ export default function Lsb() {
   return (
         <div className="left-sidebar">
             <div className="sidebar-header d-flex align-items-center justify-content-between">
-                <img src="./assets/images/logo.png" alt="Logo"/>
-                <span className="designation">Framer Designer & Developer</span>
+                {/* <img src="./assets/images/logo.png" alt="Logo"/> */}
+                <span className="designation"></span>
             </div>
             <img className="me" src="./assets/images/me.jpg" alt="Me"/>
-            <h2 className="email">hello@drake.design</h2>
+            <h2 className="email">oojumu@yahoo.com</h2>
             <h2 className="address">United Kingdom</h2>
             <p className="copyright">&copy; 2024 All Rights Reserved</p>
             <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">

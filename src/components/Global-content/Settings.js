@@ -1,25 +1,33 @@
 import React, { useState } from 'react';
 
-const colorOptions = [
-  '#28e98c',
-  '#e4af12',
-  '#fe6f1d',
-  '#14c5fd',
-  '#c0c0c0',
-  '#1338f3',
-  '#f31313',
-  '#ff99cc'
-];
+
+                  //line 5 below, commented on 15th April 2025 to complete deployment to Netlify today
+// const colorOptions = [
+//   '#28e98c',
+//   '#e4af12',
+//   '#fe6f1d',
+//   '#14c5fd',
+//   '#c0c0c0',
+//   '#1338f3',
+//   '#f31313',
+//   '#ff99cc'
+// ];
 
 const Settings = (props) => {
-  const [activeColor, setActiveColor] = useState(colorOptions[0]);//this will set the default color to  '#28e98c'
+
+                  //line 18 below, commented on 15th April 2025 to complete deployment to Netlify today
+
+  //const [activeColor, setActiveColor] = useState(colorOptions[0]);//this will set the default color to  '#28e98c'
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);//this settings overlay is closed defaultly
 
-  const handleColorClick = (color) => {
-    setActiveColor(color);//this will change the state colorOption[x] and it will pass down
-    setIsSettingsOpen(false); // so when we select the color the overlay automatically closes
-    document.documentElement.style.setProperty('--primary_color', color); // the setActiveColor after it being set it return the new color
-  };
+
+                  //commented on 15th April 2025 to complete deployment to Netlify today
+
+  // const handleColorClick = (color) => {
+  //   setActiveColor(color);//this will change the state colorOption[x] and it will pass down
+  //   setIsSettingsOpen(false); // so when we select the color the overlay automatically closes
+  //   document.documentElement.style.setProperty('--primary_color', color); // the setActiveColor after it being set it return the new color
+  // };
 
   return (
     //is the isSettingsOpen is true add class 'active' else 'leave empty'
@@ -40,9 +48,11 @@ const Settings = (props) => {
           <div className="global-color-option-inner">
             <p>Colors</p>
             <div className="color-boxed">
+              {/* 
+                //commented on 15th April 2025 to complete deployment to Netlify today
               {colorOptions.map((color) => (
                 <a key={color} href="https://github.com" className={activeColor === color ? 'clr-active' : ''} onClick={() => handleColorClick(color)}></a>
-              ))}
+              ))} */}
             </div>
             <p>THREE DIMENSIONAL SHAPES</p>
             <ul className="themes">

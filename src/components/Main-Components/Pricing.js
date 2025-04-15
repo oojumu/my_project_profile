@@ -37,7 +37,7 @@ export default function Pricing() {
                                         <li>Work in business days, no weekend.</li>
                                         <li>Support 6 months</li>
                                     </ul>
-                                    <a href="#" className="theme-btn">pick this package</a>
+                                    <a href="https://github.com" className="theme-btn">pick this package</a>
                                 </div>
                             </div>
                             <div className="col-md-6 scroll-animation" data-aos='fade-left'>
@@ -66,7 +66,7 @@ export default function Pricing() {
                         </div>
                         <p className="info scroll-animation"  data-aos='fade-up'>
                             Don't find any package match with your plan!<br/>
-                            Want to setup a new tailor-made package for only you?. <a href="#">Contact Us</a>
+                            Want to setup a new tailor-made package for only you?. <a href="https://github.com">Contact Us</a>
                         </p>
                     </div>
 

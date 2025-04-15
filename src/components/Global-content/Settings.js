@@ -41,7 +41,7 @@ const Settings = (props) => {
             <p>Colors</p>
             <div className="color-boxed">
               {colorOptions.map((color) => (
-                <a key={color} href="#" className={activeColor === color ? 'clr-active' : ''} onClick={() => handleColorClick(color)}></a>
+                <a key={color} href="https://github.com" className={activeColor === color ? 'clr-active' : ''} onClick={() => handleColorClick(color)}></a>
               ))}
             </div>
             <p>THREE DIMENSIONAL SHAPES</p>

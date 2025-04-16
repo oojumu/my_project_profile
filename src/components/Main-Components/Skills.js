@@ -14,37 +14,50 @@ export default function Skills() {
                         <h4 className="subtitle scroll-animation" data-aos='fade-up'>
                             <i className="las la-shapes"></i> my skills
                         </h4>
-                        <h1 className="scroll-animation" data-aos='fade-up'>My <span>Advantages</span></h1>
+                        {/* <h1 className="scroll-animation" data-aos='fade-up'>My <span>Advantages</span></h1> */}
                     </div>
 
                     <div className="row skills text-center">
                         <div className="col-md-3 scroll-animation" data-aos='fade-right'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/figma.png" alt="Figma"/>
+                                    <img src="../assets/images/azure.png" alt="Figma"/>
                                     <h1 className="percent">92%</h1>
                                 </div>
-                                <p className="name">Figma</p>
+                                <p className="name">Azure</p>
                             </div>
                         </div>
+
                         <div className="col-md-3 scroll-animation" data-aos='fade-up'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/framer.png" alt="Framer"/>
+                                    <img src="../assets/images/docker.png" alt="Framer"/>
                                     <h1 className="percent">85%</h1>
                                 </div>
-                                <p className="name">Framer</p>
+                                <p className="name">Docker</p>
                             </div>
                         </div>
+
                         <div className="col-md-3 scroll-animation" data-aos='fade-down'>
                             <div className="skill">
                                 <div className="skill-inner">
-                                    <img src="../assets/images/webflow.png" alt="Webflow"/>
+                                    <img src="../assets/images/Net_MVC.png" alt="Webflow"/>
                                     <h1 className="percent">80%</h1>
                                 </div>
-                                <p className="name">Webflow</p>
+                                <p className="name">.NET MVC</p>
                             </div>
                         </div>
+
+                        <div className="col-md-3 scroll-animation" data-aos='fade-down'>
+                            <div className="skill">
+                                <div className="skill-inner">
+                                    <img src="../assets/images/Net_MVC.png" alt="Webflow"/>
+                                    <h1 className="percent">80%</h1>
+                                </div>
+                                <p className="name">.NET MVC</p>
+                            </div>
+                        </div>
+
                         <div className="col-md-3 scroll-animation" data-aos='fade-left'>
                             <div className="skill">
                                 <div className="skill-inner">
@@ -54,7 +67,8 @@ export default function Skills() {
                                 <p className="name">React</p>
                             </div>
                         </div>
-                        <div className="col-md-3 scroll-animation" data-aos='fade-right'>
+
+                        {/* <div className="col-md-3 scroll-animation" data-aos='fade-right'>
                             <div className="skill">
                                 <div className="skill-inner">
                                     <img src="../assets/images/wordpress.png" alt="WordPress"/>
@@ -63,6 +77,7 @@ export default function Skills() {
                                 <p className="name">WordPress</p>
                             </div>
                         </div>
+
                         <div className="col-md-3 scroll-animation" data-aos='fade-up'>
                             <div className="skill">
                                 <div className="skill-inner">
@@ -71,7 +86,7 @@ export default function Skills() {
                                 </div>
                                 <p className="name">Laravel/PHP</p>
                             </div>
-                        </div>
+                        </div> */}
                     </div>    
                 </div>
             </div>

@@ -8,7 +8,7 @@ export default function Lsb() {
                 <span className="designation"></span>
             </div>
             <img className="me" src="./assets/images/me.jpg" alt="Me"/>
-            <h2 className="email">oojumu@yahoo.com</h2>
+            <span ><b><center>oojumu@yahoo.com</center></b></span>
             <h2 className="address">United Kingdom</h2>
             <p className="copyright">&copy; 2024 All Rights Reserved</p>
             <ul className="social-profile d-flex align-items-center flex-wrap justify-content-center">
@@ -25,9 +25,9 @@ export default function Lsb() {
                     <a href="https://github.com/"><i className="lab la-github"></i></a>
                 </li>
             </ul>
-            <a href="https://github.com" className="theme-btn">
+            {/* <a href="https://github.com" className="theme-btn">
                 <i className="las la-envelope"></i> Hire Me!
-            </a>
+            </a> */}
         </div>
   )
 }   

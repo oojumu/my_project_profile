@@ -42,15 +42,15 @@ export default function Portfolio() {
                                         <a href="https://www.Framer.com">Framer</a>
                                     </li> */}
                                     <li>
-                                        <a href="https://gorgeous-pilot1.azurewebsites.net/">View Project</a>
+                                        <a href="https://gorgeous.azurewebsites.net/">View Project</a>
                                     </li>
                                 </ul>
                             </div>
-                            <h2><a href="https://gorgeous-pilot1.azurewebsites.net/">Gorgeous Shopping</a></h2>
+                            <h2><a href="https://gorgeous.azurewebsites.net/">Gorgeous Shopping</a></h2>
                         </div>
                     </div>
 
-                    <div className="col-md-6 scroll-animation" data-aos='fade-right'>
+                    {/* <div className="col-md-6 scroll-animation" data-aos='fade-right'>
                         <div className="portfolio-item portfolio-half">
                             <div className="portfolio-item-inner">
                                 <a href="../assets/images/portfolio2.jpg" data-lightbox="example-1">
@@ -70,9 +70,9 @@ export default function Portfolio() {
                             </div>
                             <h2><a href="https://www.moonex.com">Moonex WordPress Theme</a></h2>
                         </div>
-                    </div>
+                    </div> */}
 
-                    <div className="col-md-6 scroll-animation"  data-aos='fade-left'>
+                    {/* <div className="col-md-6 scroll-animation"  data-aos='fade-left'>
                         <div className="portfolio-item portfolio-half">
                             <div className="portfolio-item-inner">
                                 <a href="../assets/images/portfolio3.jpg" data-lightbox="example-1">
@@ -90,9 +90,9 @@ export default function Portfolio() {
                             </div>
                             <h2><a href="https://www.taskly-dashboard.com">Taskly Dashboard</a></h2>
                         </div>
-                    </div>
+                    </div> */}
 
-                    <div className="col-md-12 scroll-animation" data-aos='fade-up'>
+                    {/* <div className="col-md-12 scroll-animation" data-aos='fade-up'>
                         <div className="portfolio-item portfolio-half">
                             <div className="portfolio-item-inner">
                                 <a href="../assets/images/portfolio4.jpg" data-lightbox="example-1">
@@ -110,9 +110,9 @@ export default function Portfolio() {
                             </div>
                             <h2><a href="https://www.hinterland.com">Hinterland - Real Estate Site Redesign</a></h2>
                         </div>
-                    </div>
+                    </div> */}
 
-                    <div className="col-md-12 scroll-animation" data-aos='fade-up'>
+                    {/* <div className="col-md-12 scroll-animation" data-aos='fade-up'>
                         <div className="portfolio-item portfolio-half">
                             <div className="portfolio-item-inner">
                                 <a href="../assets/images/portfolio5.jpg" data-lightbox="example-1">
@@ -127,7 +127,7 @@ export default function Portfolio() {
                             </div>
                             <h2><a href="https://www.lewis.com">Lewis Portfolio Framer Template</a></h2>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
 
 

@@ -18,19 +18,17 @@ export default function Resume() {
                 </div>
 
                 <div className="resume-timeline">
-                    div className="item scroll-animation" data-aos='fade-right'>
-                        <span className="date">2025 - Present</span>
+                    <div className="item scroll-animation" data-aos='fade-right'>
+                        <span className="date">April 2025 - Present</span>
                         <h2>Full Stack Developer</h2>
-                        <p>Graun Limited</p>                      
+                        <p>Considerate Constructors Scheme</p>                      
                     </div>
 
                     <div className="item scroll-animation" data-aos='fade-right'>
-                        <span className="date">2023 - 2025</span>
+                        <span className="date">2023 - March 2025</span>
                         <h2>Full Stack Developer</h2>
                         <p>Graun Limited</p>                      
                     </div>
-
-
                     <div className="item scroll-animation" data-aos='fade-left'>
                         <span className="date">2018 - 2022</span>
                         <h2>Full Stack Developer</h2>
